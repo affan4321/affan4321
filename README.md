@@ -47,19 +47,13 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1ocxfOnrnFl9Bmrqly3i2wekZfpgvxkfR/view?usp=drive_link"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affan4321" alt="affan4321" /></a> </p>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=https://medium.com/@affan4321&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/affan4321/affan4321/output/snake.svg" alt="Snake animation" />
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@affan4321/knative-a-complete-approach-towards-serverless-kubernetes-88e520b3da81">Knative: A Complete Approach towards Serverless Kubernetes</a> </br>
+<a href="https://medium.com/@affan4321/deep-dive-dockerizing-wasm-based-gen-ai-applications-a39363b1a8e0">Deep Dive: Dockerizing WASM based GenAI Applications</a>
+<!-- BLOG-POST-LIST:END -->
 
 ###
 
@@ -69,6 +63,11 @@
   <a href="https://www.linkedin.com/in/sheikhmuhammadaffan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  
+  <a href="https://medium.com/@affan4321" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@affan4321" height="30" width="40" />
+  </a>
+  
   <a href="muhammad_affan007" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
