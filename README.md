@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Muhammad Affan - Frontend Developer</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hi+there!+I'm+Muhammad+Affan+-+Frontend+Developer" alt="Typing SVG" /></a></h1>
 
 ###
 
@@ -58,6 +58,12 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="./1674617947228.gif" width="50%" height="50%"/>
+</div>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sheikhmuhammadaffan/" target="_blank">
