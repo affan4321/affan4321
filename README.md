@@ -1,9 +1,11 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hi+there!+I'm+Muhammad+Affan+-+Frontend+Developer" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hi+there!+I'm+Muhammad+Affan+-+Full+Stack+AI+Engineer" alt="Typing SVG" /></a></h1>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="9" />
+  <img src="https://img.shields.io/badge/Python-61DAFB?logo=python&logoColor=black&style=for-the-badge" height="25" alt="python logo"  />
   <img width="9" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="25" alt="jquery logo"  />
   <img width="9" />
@@ -36,6 +38,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="9" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
+  <img width="9" />
+  <img src="https://img.shields.io/badge/n8n-181717?logo=n8n&logoColor=red&style=for-the-badge" height="25" alt="n8n logo"  />
+  <img width="9" />
+  <img src="https://img.shields.io/badge/Livekit-FFC61C?logo=livekit&logoColor=white&style=for-the-badge" height="25" alt="livekit logo"  />
 </div>
 
 ###
