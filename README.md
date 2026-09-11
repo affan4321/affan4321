@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hi+there!+I'm+Muhammad+Affan+-+Full+Stack+AI+Engineer" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hi+there!+I'm+Muhammad+Affan+-+AI+/+Data+Engineer" alt="Typing SVG" /></a></h1>
 
 ###
 
