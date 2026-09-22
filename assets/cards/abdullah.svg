@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250" role="img" aria-label="Abdullah Chughtai: Scroll-choreographed client portfolio with WebGL transitions tuned not to stutter.">
-<rect width="400" height="250" rx="14" fill="#181C29"/>
-<rect x=".5" y=".5" width="399" height="249" rx="14" fill="none" stroke="#2A3042"/>
-<text x="28" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2B84B">Web</text>
-<text x="372" y="40" text-anchor="end" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="18" fill="#8A93A8">&#8599;</text>
-<text x="28" y="78" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#E9ECF4" letter-spacing="-.5">Abdullah Chughtai</text>
-<text x="28" y="112" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A8">Scroll-choreographed client portfolio</text><text x="28" y="134" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A8">with WebGL transitions tuned not to</text><text x="28" y="156" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A8">stutter.</text>
-<rect x="28" y="200" width="57" height="26" rx="13" fill="none" stroke="#2A3042"/><text x="38" y="217" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E9ECF4">React</text><rect x="93.0" y="200" width="57" height="26" rx="13" fill="none" stroke="#2A3042"/><text x="103.0" y="217" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E9ECF4">WebGL</text><rect x="158.0" y="200" width="64" height="26" rx="13" fill="none" stroke="#2A3042"/><text x="168.0" y="217" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E9ECF4">Motion</text>
-</svg>

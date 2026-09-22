@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="250" viewBox="0 0 400 250" role="img" aria-label="Dark Tunnel: An explorable 3D tunnel where projects hide down branching paths, with positional audio.">
-<rect width="400" height="250" rx="14" fill="#181C29"/>
-<rect x=".5" y=".5" width="399" height="249" rx="14" fill="none" stroke="#2A3042"/>
-<text x="28" y="40" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#F2B84B">3D</text>
-<text x="372" y="40" text-anchor="end" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="18" fill="#8A93A8">&#8599;</text>
-<text x="28" y="78" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#E9ECF4" letter-spacing="-.5">Dark Tunnel</text>
-<text x="28" y="112" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A8">An explorable 3D tunnel where projects</text><text x="28" y="134" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A8">hide down branching paths, with</text><text x="28" y="156" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8A93A8">positional audio.</text>
-<rect x="28" y="200" width="79" height="26" rx="13" fill="none" stroke="#2A3042"/><text x="38" y="217" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E9ECF4">Three.js</text><rect x="115.2" y="200" width="50" height="26" rx="13" fill="none" stroke="#2A3042"/><text x="125.2" y="217" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E9ECF4">GSAP</text><rect x="172.8" y="200" width="72" height="26" rx="13" fill="none" stroke="#2A3042"/><text x="182.8" y="217" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#E9ECF4">Next.js</text>
-</svg>
