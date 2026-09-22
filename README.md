@@ -1,100 +1,116 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=835&lines=Hi+there!+I'm+Muhammad+Affan+-+AI+/+Data+Engineer" alt="Typing SVG" /></a></h1>
 
-###
+<p align="center">
+  <a href="https://smaffan.com"><img src="./assets/hero.svg" width="100%" alt="Something is broken. I build the thing that answers it."/></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Python-61DAFB?logo=python&logoColor=black&style=for-the-badge" height="25" alt="python logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="25" alt="jquery logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="25" alt="flutter logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="25" alt="dart logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=for-the-badge" height="25" alt="podman logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="25" alt="kubernetes logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=black&style=for-the-badge" height="25" alt="k3s logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/n8n-181717?logo=n8n&logoColor=red&style=for-the-badge" height="25" alt="n8n logo"  />
-  <img width="9" />
-  <img src="https://img.shields.io/badge/Livekit-FFC61C?logo=livekit&logoColor=white&style=for-the-badge" height="25" alt="livekit logo"  />
-</div>
+<p align="center">
+  <a href="https://smaffan.com"><img src="https://img.shields.io/badge/Portfolio-smaffan.com-181C29?style=for-the-badge&labelColor=12151F&color=181C29" alt="Portfolio"/></a>
+  <a href="mailto:affan4321@gmail.com"><img src="https://img.shields.io/badge/Email-181C29?style=for-the-badge&logo=gmail&logoColor=F2B84B" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sheikhmuhammadaffan/"><img src="https://img.shields.io/badge/LinkedIn-181C29?style=for-the-badge&logo=linkedin&logoColor=F2B84B" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@affan4321"><img src="https://img.shields.io/badge/Medium-181C29?style=for-the-badge&logo=medium&logoColor=F2B84B" alt="Medium"/></a>
+  <a href="https://instagram.com/smaffan92"><img src="https://img.shields.io/badge/Instagram-181C29?style=for-the-badge&logo=instagram&logoColor=F2B84B" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Discord-muhammad__affan007-181C29?style=for-the-badge&logo=discord&logoColor=F2B84B&labelColor=12151F" alt="Discord: muhammad_affan007"/>
+</p>
 
-###
+I'm an AI and data engineer in Islamabad. I build voice agents that hold a real conversation, data pipelines that remember it, and computer vision that ships to production instead of staying in a notebook.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=affan4321&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=affan4321&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Open them. They all still run.
 
-###
+<p align="center">
+  <a href="https://splendor-store.vercel.app/"><img src="./assets/cards/splendor.svg" width="32%" alt="Splendor"/></a>
+  <a href="https://voice-agent-livekit.vercel.app/"><img src="./assets/cards/voice-agent.svg" width="32%" alt="AI Voice Assistant"/></a>
+  <a href="https://disaster-shield.vercel.app/"><img src="./assets/cards/disastershield.svg" width="32%" alt="DisasterShield"/></a>
+</p>
+<p align="center">
+  <a href="https://newslakeoriginal.vercel.app/"><img src="./assets/cards/newslake.svg" width="32%" alt="NewsLake"/></a>
+  <a href="https://stories-we-tell.vercel.app/chat"><img src="./assets/cards/stories.svg" width="32%" alt="Stories We Tell"/></a>
+  <a href="https://game.smaffan.com/"><img src="./assets/cards/dark-tunnel.svg" width="32%" alt="Dark Tunnel"/></a>
+</p>
+<p align="center">
+  <a href="https://clipsmithstudios.vercel.app/"><img src="./assets/cards/clipsmith.svg" width="32%" alt="ClipSmith Studios"/></a>
+  <a href="https://abdullahchughtai.vercel.app/"><img src="./assets/cards/abdullah.svg" width="32%" alt="Abdullah Chughtai"/></a>
+  <a href="https://video.smaffan.com/"><img src="./assets/cards/motion.svg" width="32%" alt="Motion Showcase"/></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affan4321" alt="affan4321" /></a> </p>
+## The toolkit
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<a href="https://medium.com/@affan4321/knative-a-complete-approach-towards-serverless-kubernetes-88e520b3da81">Knative: A Complete Approach towards Serverless Kubernetes</a> </br>
-<a href="https://medium.com/@affan4321/deep-dive-dockerizing-wasm-based-gen-ai-applications-a39363b1a8e0">Deep Dive: Dockerizing WASM based GenAI Applications</a>
-<!-- BLOG-POST-LIST:END -->
+<p align="left"><sub><b>AI / Data engineering</b></sub><br/>
+<img src="https://img.shields.io/badge/OpenAI-181C29?style=for-the-badge&logo=openai&logoColor=F2B84B" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/LiveKit-181C29?style=for-the-badge" alt="LiveKit"/>
+<img src="https://img.shields.io/badge/n8n-181C29?style=for-the-badge&logo=n8n&logoColor=F2B84B" alt="n8n"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-181C29?style=for-the-badge&logo=apacheairflow&logoColor=F2B84B" alt="Apache Airflow"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-181C29?style=for-the-badge&logo=apachespark&logoColor=F2B84B" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/dbt-181C29?style=for-the-badge&logo=dbt&logoColor=F2B84B" alt="dbt"/>
+<img src="https://img.shields.io/badge/PyTorch-181C29?style=for-the-badge&logo=pytorch&logoColor=F2B84B" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/OpenCV-181C29?style=for-the-badge&logo=opencv&logoColor=F2B84B" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-181C29?style=for-the-badge&logo=pandas&logoColor=F2B84B" alt="Pandas"/>
+</p>
 
-###
+<p align="left"><sub><b>Cloud / DevOps</b></sub><br/>
+<img src="https://img.shields.io/badge/AWS-181C29?style=for-the-badge&logo=amazonwebservices&logoColor=F2B84B" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-181C29?style=for-the-badge&logo=docker&logoColor=F2B84B" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-181C29?style=for-the-badge&logo=kubernetes&logoColor=F2B84B" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Nginx-181C29?style=for-the-badge&logo=nginx&logoColor=F2B84B" alt="Nginx"/>
+<img src="https://img.shields.io/badge/Cloudflare-181C29?style=for-the-badge&logo=cloudflare&logoColor=F2B84B" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Vercel-181C29?style=for-the-badge&logo=vercel&logoColor=F2B84B" alt="Vercel"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-181C29?style=for-the-badge&logo=githubactions&logoColor=F2B84B" alt="GitHub Actions"/>
+</p>
 
-<br clear="both">
+<p align="left"><sub><b>Databases</b></sub><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-181C29?style=for-the-badge&logo=postgresql&logoColor=F2B84B" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Supabase-181C29?style=for-the-badge&logo=supabase&logoColor=F2B84B" alt="Supabase"/>
+<img src="https://img.shields.io/badge/MongoDB-181C29?style=for-the-badge&logo=mongodb&logoColor=F2B84B" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-181C29?style=for-the-badge&logo=redis&logoColor=F2B84B" alt="Redis"/>
+<img src="https://img.shields.io/badge/MinIO-181C29?style=for-the-badge&logo=minio&logoColor=F2B84B" alt="MinIO"/>
+</p>
 
-<div align="center">
-  <img src="./1674617947228.gif" width="50%" height="50%"/>
-</div>
+<p align="left"><sub><b>Full-stack</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-181C29?style=for-the-badge&logo=python&logoColor=F2B84B" alt="Python"/>
+<img src="https://img.shields.io/badge/TypeScript-181C29?style=for-the-badge&logo=typescript&logoColor=F2B84B" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/FastAPI-181C29?style=for-the-badge&logo=fastapi&logoColor=F2B84B" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Node.js-181C29?style=for-the-badge&logo=nodedotjs&logoColor=F2B84B" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Next.js-181C29?style=for-the-badge&logo=nextdotjs&logoColor=F2B84B" alt="Next.js"/>
+<img src="https://img.shields.io/badge/React-181C29?style=for-the-badge&logo=react&logoColor=F2B84B" alt="React"/>
+<img src="https://img.shields.io/badge/Three.js-181C29?style=for-the-badge&logo=threedotjs&logoColor=F2B84B" alt="Three.js"/>
+<img src="https://img.shields.io/badge/Socket.io-181C29?style=for-the-badge&logo=socketdotio&logoColor=F2B84B" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/Flutter-181C29?style=for-the-badge&logo=flutter&logoColor=F2B84B" alt="Flutter"/>
+</p>
 
-###
+## Where the hours went
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sheikhmuhammadaffan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://medium.com/@affan4321" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@affan4321" height="30" width="40" />
-  </a>
-  
-  <a href="muhammad_affan007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+**AI Engineer, Soft Techniques** (Sep 2025 to Feb 2026)
+Built the Alive5 voice agent platform: LiveKit, GPT-4o and FastAPI with intent detection, FAQ grounding, Telnyx SIP telephony and call transfer, plus LiveChat and CRM integrations over Socket.io.
 
-###
+**Full Stack Software Engineer, VECTOR Inc.** (Feb 2025 to May 2025)
+Shipped VFit virtual try-on and a computer-vision height estimation app into the Splendor store; built the frontend, Dockerized it and deployed on AWS EC2 GPU instances.
 
-<br clear="both">
+**Front-end Development Intern, Moqah.pk** (Nov 2024 to Jan 2025)
+Auth flows, event carousels, policy and event-detail pages, and backend bug fixes.
 
-<h3 align="center">Visitors Count</h3>
+## Writing
 
-###
+- [Knative: A Complete Approach towards Serverless Kubernetes](https://medium.com/@affan4321/knative-a-complete-approach-towards-serverless-kubernetes-88e520b3da81)
+- [Deep Dive: Dockerizing WASM based GenAI Applications](https://medium.com/@affan4321/deep-dive-dockerizing-wasm-based-gen-ai-applications-a39363b1a8e0)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/affan4321/count.svg?"  />
-</div>
+## Activity
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=affan4321&show_icons=true&include_all_commits=true&count_private=true&bg_color=12151F&title_color=F2B84B&text_color=8A93A8&icon_color=F2B84B&border_color=2A3042&hide_border=false" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=affan4321&layout=compact&langs_count=8&bg_color=12151F&title_color=F2B84B&text_color=8A93A8&icon_color=F2B84B&border_color=2A3042&hide_border=false" height="165" alt="Top languages"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=affan4321&background=12151F&border=2A3042&stroke=2A3042&ring=F2B84B&fire=F2B84B&currStreakNum=E9ECF4&sideNums=E9ECF4&currStreakLabel=F2B84B&sideLabels=8A93A8&dates=8A93A8" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="./1674617947228.gif" width="50%" alt=""/>
+</p>
+
+<p align="center">
+  <a href="mailto:affan4321@gmail.com"><img src="./assets/closer.svg" width="100%" alt="Something broken? Email affan4321@gmail.com"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=affan4321&color=181C29&style=flat-square&label=profile+views" alt="Profile views"/>
+</p>
