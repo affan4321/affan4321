@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Discord-muhammad__affan007-1A1E2B?style=for-the-badge&logo=discord&logoColor=64AFD2&labelColor=12151F" alt="Discord: muhammad_affan007"/>
 </p>
 
-I'm an AI and data engineer based in Pakistan. I build voice agents that hold a real conversation, data pipelines that remember it, and computer vision that ships to production instead of staying in a notebook.
+I'm an AI and data engineer based in Pakistan. I build voice agents that hold a real conversation, notetakers and data pipelines that remember it, and computer vision that ships to production instead of staying in a notebook.
 
 ## Open them. They all still run.
 
@@ -32,6 +32,9 @@ I'm an AI and data engineer based in Pakistan. I build voice agents that hold a 
   <a href="https://clipsmithstudios.vercel.app/"><img src="./assets/cards/clipsmith.svg" width="32%" alt="ClipSmith Studios"/></a>
   <a href="https://abdullahchughtai.vercel.app/"><img src="./assets/cards/abdullah.svg" width="32%" alt="Abdullah Chughtai"/></a>
   <a href="https://video.smaffan.com/"><img src="./assets/cards/motion.svg" width="32%" alt="Motion Showcase"/></a>
+</p>
+<p align="center">
+  <a href="https://miloainotetaker.vercel.app/"><img src="./assets/cards/milo.svg" width="32%" alt="Milo.ai"/></a>
 </p>
 
 ## The toolkit
