@@ -19,7 +19,7 @@ I'm an AI and data engineer based in Pakistan. I build voice agents that hold a 
 ## Open them. They all still run.
 
 <p align="center">
-  <a href="https://splendor-store.vercel.app/"><img src="./assets/cards/splendor.svg" width="32%" alt="Splendor"/></a>
+  <a href="https://miloainotetaker.vercel.app/"><img src="./assets/cards/milo.svg" width="32%" alt="Milo.ai"/></a>
   <a href="https://voice-agent-livekit.vercel.app/"><img src="./assets/cards/voice-agent.svg" width="32%" alt="AI Voice Assistant"/></a>
   <a href="https://disaster-shield.vercel.app/"><img src="./assets/cards/disastershield.svg" width="32%" alt="DisasterShield"/></a>
 </p>
@@ -34,7 +34,7 @@ I'm an AI and data engineer based in Pakistan. I build voice agents that hold a 
   <a href="https://video.smaffan.com/"><img src="./assets/cards/motion.svg" width="32%" alt="Motion Showcase"/></a>
 </p>
 <p align="center">
-  <a href="https://miloainotetaker.vercel.app/"><img src="./assets/cards/milo.svg" width="32%" alt="Milo.ai"/></a>
+  <a href="https://splendor-store.vercel.app/"><img src="./assets/cards/splendor.svg" width="32%" alt="Splendor"/></a>
 </p>
 
 ## The toolkit
